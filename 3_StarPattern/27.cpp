@@ -22,6 +22,7 @@ int main(int argc, char const *argv[])
             space--;
         }
         // value1
+        
         int j = 0;
         int value1 = 1;
         while(j <= i){
