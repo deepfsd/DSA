@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "*.html": "html",
+        "\"**/template/**/*.html": "",
+        "*.cpp": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp"
+    }
+}
