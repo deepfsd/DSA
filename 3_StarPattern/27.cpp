@@ -29,9 +29,17 @@ int main(int argc, char const *argv[])
             value1++;
             j++;
         }
+        //value2
         int k = 0;
-        int value = 1
+        int value2 = i;
+        while(k < i){
+            cout << value2;
+            k++;
+            value2--;
+        }
+        cout << endl;
+        i++;
     }        
     return 0;
 }
-// https://youtu.be/dr-pLeJBr38?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&t=3302
+// https://youtu.be/dr-pLeJBr38?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&t=3344
